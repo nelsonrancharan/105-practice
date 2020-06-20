@@ -1,0 +1,45 @@
+
+a {
+	font-family:'helvetica';
+	font-size: 14px;
+	text-decoration:underline;
+}
+
+header{text-align:left;
+	   text-decoration-color:blue;
+	   margin-left:50px;
+	   }
+h1{
+	font-color:green;
+	font-size:30px;
+	margin-left: 250px;
+
+}
+h4{
+	
+	font-color:white;
+	font-family:'Arial';
+	font-size:24px;
+	font-style:italic;
+}
+p{
+	font-family: 'courier-new';
+	font-size: 18px;
+}
+
+body {
+	background-color: white;
+}
+
+.advice {
+	width: 75%;
+	border: 20px grey;
+	margin: 100px 275px;
+	padding: 10px 25px 25px 25px;
+	
+}
+
+footer {
+	text-align: center;
+	font-style:italic;
+}
